@@ -1,6 +1,6 @@
 {
-  "name": "luisdaportafolio",
-  "version": "0.0.1",
+  "name": "diamond",
+  "version": "1.0.0",
   "scripts": {
     "dev": "svelte-kit dev --port 5000",
     "build": "svelte-kit build",
