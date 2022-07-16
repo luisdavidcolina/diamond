@@ -39,6 +39,7 @@
     "@fontsource/fira-mono": "^4.5.0",
     "cookie": "^0.4.1",
     "daisyui": "^2.2.2",
+    "pg-native": "^1.0.0",
     "pg": "^8.7.3",
     "theme-change": "^2.0.2"
   }
